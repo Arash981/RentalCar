@@ -54,7 +54,15 @@
     border-radius: 4px;
     transition: .3s;
     cursor: pointer;
-    
+}
 
+.btn:hover
+{
+    background-color:#3c4286;
+}
 
+img 
+{
+    display: flex;
+    width: 100%; 
 }
