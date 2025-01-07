@@ -103,8 +103,8 @@ header::before
 }
 
 nav {
-    position: inherit;
-    isolation: auto;
+    position: fixed;
+    isolation: isolate;
     width: 100%;
-    z-index: 8;
+    z-index: 9;
 }
