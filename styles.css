@@ -101,10 +101,3 @@ header::before
     background:linear-gradient(to bottom, rgba(0,0,0,0),rgba(0,0,0,.1));
     z-index: -1;
 }
-
-nav {
-    position: fixed;
-    isolation: isolate;
-    width: 100%;
-    z-index: 9;
-}
